@@ -168,7 +168,7 @@ cd kakao-book-search
 - **Domain Layer**: 비즈니스 로직, Use Case
 - **Entity Layer**: 데이터 모델
 
-### Unidirectional MVVM Pattern
+### MVI Pattern
 - **Model**: State 클래스로 UI 상태 관리
 - **View**: Compose UI 컴포넌트 (각 화면에서 ViewModel 생성)
 - **Intent**: 사용자 액션을 나타내는 클래스
